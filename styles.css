@@ -1,0 +1,52 @@
+body {
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h4, h5 {
+  color: #E41717;
+}
+
+header {
+  border-bottom: red 3px solid;
+}
+
+button {
+  background-color: #E41717;
+  border-radius: 10px;
+  color: white;
+}
+
+#articles-container {
+  width: 250px;
+  line-height: 1.4;
+  text-align: left;
+  margin: 0 auto;
+}
+
+input, button {
+  padding: 2px;
+  margin: 5px;
+}
+
+img {
+  width: 300px;
+  margin-top: 30px;
+}
+
+.active-cases-number {
+  font-size: 100px;
+}
+
+#active-cases {
+  font-size: 70px;
+}
+
+#no-match {
+  font-size: 30px;
+}
+
+.hidden {
+  display: none;
+}
