@@ -14,8 +14,14 @@ header {
 
 button {
   background-color: #E41717;
+  width: 100px;
+  height: 30px;
   border-radius: 10px;
   color: white;
+}
+
+button:hover {
+  cursor: pointer;
 }
 
 #articles-container {
