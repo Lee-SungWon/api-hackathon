@@ -6,6 +6,7 @@ A hackathon project utilizing data from two public APIs to create a Coronavirus 
 - JavaScript
 - JQuery
 - CSS3
+- Bootstrap 4
 
 ## live Demo
 https://lee-sungwon.github.io/coronavirus-tracker
