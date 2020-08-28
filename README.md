@@ -9,7 +9,7 @@ A hackathon project utilizing data from two public APIs to create a Coronavirus 
 - Bootstrap 4
 
 ## Live Demo
-https://lee-sungwon.github.io/coronavirus-tracker
+https://lee-sungwon.github.io/coronavirus-tracker/
 
 ## Features
 - User can reference links to Coronavirus related articles.
