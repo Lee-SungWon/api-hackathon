@@ -8,7 +8,7 @@ A hackathon project utilizing data from two public APIs to create a Coronavirus 
 - CSS3
 - Bootstrap 4
 
-## live Demo
+## Live Demo
 https://lee-sungwon.github.io/coronavirus-tracker
 
 ## Features
